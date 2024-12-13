@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Sayfa -1" id="EFqOKTbJTs2rYXrmMJ-d">
+    <mxGraphModel dx="1050" dy="1744" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="O1sISU_HGdNYAjInUYWD-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O1sISU_HGdNYAjInUYWD-1" target="O1sISU_HGdNYAjInUYWD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-1" value="Başla" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="88" y="-1140" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O1sISU_HGdNYAjInUYWD-2" target="O1sISU_HGdNYAjInUYWD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-2" value="Boy ve kilonuzu arada bir boşluk bırakarak yazınız" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="53" y="-1010" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O1sISU_HGdNYAjInUYWD-4" target="O1sISU_HGdNYAjInUYWD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-4" value="boy,kilo" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="88" y="-820" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O1sISU_HGdNYAjInUYWD-6" target="O1sISU_HGdNYAjInUYWD-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O1sISU_HGdNYAjInUYWD-6" target="O1sISU_HGdNYAjInUYWD-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-6" value="vki&amp;lt;18.5" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="88" y="-440" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O1sISU_HGdNYAjInUYWD-7" target="O1sISU_HGdNYAjInUYWD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-7" value="Vücut kitle indeksiniz: +vki" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-630" width="176" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O1sISU_HGdNYAjInUYWD-9" target="O1sISU_HGdNYAjInUYWD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-9" value="vki=kilo/boy*boy" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="84" y="-730" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-13" value="Zayıf" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="284" y="-420" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O1sISU_HGdNYAjInUYWD-16" target="O1sISU_HGdNYAjInUYWD-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O1sISU_HGdNYAjInUYWD-16" target="O1sISU_HGdNYAjInUYWD-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-16" value="vki&amp;lt;25" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="88" y="-260" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-17" value="Sağlıkı" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="284" y="-240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O1sISU_HGdNYAjInUYWD-20" target="O1sISU_HGdNYAjInUYWD-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-20" value="vki&amp;lt;30" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="89" y="-130" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-21" value="Şişman" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="284" y="-110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="O1sISU_HGdNYAjInUYWD-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="-230" as="targetPoint" />
+            <mxPoint x="610" y="-80" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="600" y="-80" />
+              <mxPoint x="600" y="-200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O1sISU_HGdNYAjInUYWD-24" target="O1sISU_HGdNYAjInUYWD-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="-140" />
+              <mxPoint x="510" y="-140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-24" value="vki&amp;lt;40" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-130" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-25" value="Obez" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O1sISU_HGdNYAjInUYWD-20" target="O1sISU_HGdNYAjInUYWD-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-27" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-422" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-28" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-240" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-29" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-110" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O1sISU_HGdNYAjInUYWD-24" target="O1sISU_HGdNYAjInUYWD-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="-80" as="sourcePoint" />
+            <mxPoint x="590" y="-125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-33" value="Aşırı Obez" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-230" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-34" value="Else" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-230" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O1sISU_HGdNYAjInUYWD-35" value="Bitir" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-400" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
