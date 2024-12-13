@@ -1,0 +1,10 @@
+1. Başla
+2. Ekrana "Boyunuzu ve kilonuzu arada bir boşluk bırakarak yazınız" yazdır.
+3. Girilen sayıyı oku. (s1,s2)
+4. vki = s2/s1*s1
+5. Ekrana "boy kilo indeksiniz: "+vki yazdır.
+6. Eğer vki<18.5 ise ekrana "Zayıf" yazdır.
+7. Eğer vki<25 ise ekrana "Sağlıklı" yazdır.
+8. Eğer vki<30 ise ekrana "Şişman" yazdır.
+9. Eğer vki<40 ise ekrana "Obez" yazdır.
+10 Başka herhangi bir durumda "Aşırı Obez" yazdır.
